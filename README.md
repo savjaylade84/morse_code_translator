@@ -1,7 +1,7 @@
 ## Python script tool that encrypt and decrypt morse code
 
 #### Usage:
-python3 morsecode.py <option> file/string
+python3 morsecode.py option file/string
 #### Combination:
 `-em`, encrypt and prompt message<br>
 `-dm`, decrypt and prompt message<br>
