@@ -14,11 +14,9 @@ python3 morsecode.py option file/string
   `-e, --encrypt`         encrypt a message to morse code<br>
   `-d, --decrypt`         decrypt a morse code to message<br>
   `-v, --version`         show program's version number and exit<br>
-  `-m` MESSAGE, `--message` MESSAGE
-                        direct input<br>
-  `-f` FILENAME, `--filename` FILENAME
-                        file input<br>
-  `-p`, `--printfile`       print the process output file content<br>
+  `-m, --message`         direct input<br>
+  `-f, --filename`        file input<br>
+  `-p, --printfile`       print the process output file content<br>
 
 Author: `John Jayson B. De Leon`
 Email: `savjaylade84@gmail.com`
