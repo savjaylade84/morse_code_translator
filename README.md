@@ -16,8 +16,8 @@ python3 morsecode.py option file/string
   `-v, --version`&nbsp;&nbsp;show program's version number and exit<br>
   `-m, --message`&nbsp;&nbsp;direct input<br>
   `-f, --filename`&nbsp;&nbsp;file input<br>
-  `-p, --printfile`&nbsp;&nbsp;print the process output file content<br>
+  `-p, --printfile`&nbsp;&nbsp;print the process output file content<br><br>
 
-Author: `John Jayson B. De Leon`
-Email: `savjaylade84@gmail.com`
+Author: `John Jayson B. De Leon`<br>
+Email: `savjaylade84@gmail.com`<br>
 Github: `savjaylade84`
