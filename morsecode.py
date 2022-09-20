@@ -132,6 +132,7 @@ def read_decrypt_file(file_name:str='') ->str:
     decrypt_file(file_name)
     return open(file_name,'r').read()
 
+# get and store the option and input
 _args = _parser.parse_args()
 
 
