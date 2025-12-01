@@ -36,6 +36,6 @@ message</br>
   `-p, --printfile`&nbsp;&nbsp;print the process output file content</br></br>
 
 Author: `John Jayson B. De Leon`</br>
-Email: `savjaylade84@gmail.com`</br>
+Email: `deleonjohnjayson@gmail.com` | `deleonjohnjayson@proton.me` </br>
 Github: `savjaylade84`</br>
 Portolio: [Jisun](https://savjalade84.pythonanywhere.com/)
